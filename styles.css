@@ -1,0 +1,26 @@
+img.imgsize {
+            width: 30%; /* ширина и высота, убрал из тега имг*/
+            border-radius: 8px;            
+            height:30%;  
+            display: block;
+            margin: 0 auto; }
+
+img.imgsize3 {
+    border-radius: 8px;  /* скругление радиуса изображения*/
+    width: 400px; /* ширина и высота, убрал из тега имг*/
+    height:600px;}
+
+
+li {
+  list-style-type: square;   /* стиль для списка контакты и название фотоальбомов*/
+  font-size: 12pt; 
+}
+p {
+  font-family: arial; /* для всех абзацев сделал шрифт Ариал*/
+  font-size: 12pt;   /* для всех абзацев сделал размер шрифта 12*/
+  text-align:justify; /* заменил саторое <p align="justify"> */
+}
+h1,h2,h3 {
+  text-align:center;  /*тоже самое только для заголовков*/
+  color: #000080;  /*цвет синий по таблице выбрал, таблицу нашел в интернете */
+}
